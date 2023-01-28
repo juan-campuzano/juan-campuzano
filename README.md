@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+* I'm currently working on improving my dart knowledge. 🤓
+* Also aiming on improving my cloud skills. ☁️
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-campuzano)](https://github.com/anuraghazra/github-readme-stats)
 
