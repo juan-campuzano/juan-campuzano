@@ -1,10 +1,15 @@
 # Hi there 👋
 
-* I'm currently working on improving my dart knowledge. 🤓
-* Also aiming on improving my cloud skills. ☁️
+🚀 Senior Flutter Developer | Cloud & Backend Enthusiast  
+🎯 Passionate about building scalable apps and great user experiences  
+📚 Currently expanding my skills in AI, NLP, and Computer Vision  
+☁️ Exploring AWS, Kubernetes, and distributed systems  
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juan-campuzano)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-campuzano&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-campuzano&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=juan-campuzano&theme=radical&hide_border=true)
+
 
 <!--
 **juan-campuzano/juan-campuzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
