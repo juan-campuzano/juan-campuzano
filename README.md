@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🚀 Senior Flutter Developer | Cloud & Backend Enthusiast.
+🚀 Senior Flutter Developer | Cloud & Backend Enthusiast.  
 🎯 Passionate about building scalable apps and great user experiences.  
 📚 Currently expanding my skills in AI, NLP, and Computer Vision.  
 ☁️ Exploring AWS, Kubernetes, and distributed systems.
