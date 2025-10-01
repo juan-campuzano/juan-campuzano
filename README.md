@@ -1,9 +1,6 @@
 # Hi there 👋
 
-🚀 Senior Flutter Developer | Cloud & Backend Enthusiast.  
-🎯 Passionate about building scalable apps and great user experiences.  
-📚 Currently expanding my skills in AI, NLP, and Computer Vision.  
-☁️ Exploring AWS, Kubernetes, and distributed systems.
+👨‍💻 I push code like I push doors with a "PULL" sign.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juan-campuzano&show_icons=true&theme=radical)
