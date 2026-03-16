@@ -1,7 +1,7 @@
 ### Latests posts
 * [ES] [Utilizando Golden Tests como herramientas de QA visual.](https://medium.com/bancolombia-tech/utilizando-golden-tests-como-herramienta-de-qa-visual-91ef96cb8ed0)
 * [ES] [Parte 1: Agentic Workflows con Github.](https://medium.com/@juan-campuzano/parte-1-agentic-workflows-con-github-9abec6edd1ac)
-* [ES] [Más allá del prompt; Spec-Driven Development.](https://medium.com/@juan-campuzano/m%C3%A1s-all%C3%A1-del-prompt-spec-driven-development-25bac20edd6a)
+* [ES] [Más allá del prompt: Spec-Driven Development.](https://medium.com/@juan-campuzano/m%C3%A1s-all%C3%A1-del-prompt-spec-driven-development-25bac20edd6a)
 
 ### Latests talks
 * [ES] [Golden Testing - feat. Weincode](https://www.youtube.com/watch?v=2gs9B2xziRM&t=2036s)
