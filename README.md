@@ -9,6 +9,8 @@
 * 🇬🇧 [Designing Flutter libraries as a product: API, versioning, and quality](https://www.juan-campuzano.dev/blog/designing-flutter-libraries-as-a-product)
 * 🇬🇧 [Under the Hood of Hybrid Composition++ (HCPP) in Flutter
 ](https://medium.com/@juan-campuzano/under-the-hood-of-hybrid-composition-hcpp-in-flutter-b245ceed2fe6?sharedUserId=juan-campuzano)
+* 🇬🇧 [Decoupling Material and Cupertino in Flutter: What’s new?
+](https://medium.juan-campuzano.dev/decoupling-material-and-cupertino-in-flutter-whats-new-f584cf411034)
 
 ### Latests talks
 * 🇪🇸 [Golden Testing - feat. Weincode](https://www.youtube.com/watch?v=2gs9B2xziRM&t=2036s)
