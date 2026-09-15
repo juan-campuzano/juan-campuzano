@@ -16,6 +16,7 @@
 * 🇪🇸 [Golden Testing - feat. Weincode](https://www.youtube.com/watch?v=2gs9B2xziRM&t=2036s)
 * 🇪🇸 [Model Context Protocol](https://www.youtube.com/live/Wah6CUzzIz8?si=O3yS1sfRsR-0mKOi&t=5305)
 * 🇪🇸 [Generative UI - Flutter](https://www.youtube.com/live/S6W6HDIMcz4?si=68xQX74OWkTYgohQ&t=606)
+* 🇪🇸 [Flutter 3.47 bajo el capó](https://www.youtube.com/watch?v=_vdqR1_MoV4)
 * 🇬🇧 [Flutter for everyone](https://www.youtube.com/live/5PqOkrc7of8?si=39FSdqQkw-cJf1VI&t=240)
 
 ### Podcasts
