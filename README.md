@@ -11,6 +11,7 @@
 ](https://medium.com/@juan-campuzano/under-the-hood-of-hybrid-composition-hcpp-in-flutter-b245ceed2fe6?sharedUserId=juan-campuzano)
 * 🇬🇧 [Decoupling Material and Cupertino in Flutter: What’s new?
 ](https://medium.juan-campuzano.dev/decoupling-material-and-cupertino-in-flutter-whats-new-f584cf411034)
+* 🇬🇧 [Dart on the server: A guide to a single source of truth](https://www.juan-campuzano.dev/blog/dart-on-the-server-a-guide-to-a-single-source-of-truth)
 
 ### Latests talks
 * 🇪🇸 [Golden Testing - feat. Weincode](https://www.youtube.com/watch?v=2gs9B2xziRM&t=2036s)
